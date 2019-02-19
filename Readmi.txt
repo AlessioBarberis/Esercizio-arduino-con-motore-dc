@@ -1,0 +1,1 @@
+Esercitazione del 19/02/19 di arduino con motore dc, transistor bjt, diodo. 
